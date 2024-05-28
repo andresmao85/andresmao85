@@ -2,7 +2,11 @@
 
 ## About Me
 
-I'm Andres Arias, an enthusiastic frontend developer based in Colombia!
+I'm Andres Arias, an enthusiastic frontend developer based in Colombia, making the transition from chemistry to tech! 😀
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm56dmhwbWNyZ2d1dDRqOWxrZHhzZzYxa3VveXZlcnJnYW1ndjczciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" height="120"  alt="Coding GIF">
+</p>
 
 ## Languages and Tools
 
