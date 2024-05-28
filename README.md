@@ -62,6 +62,5 @@ I am thrilled to join dynamic teams and create impactful software solutions, whi
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/andres-ao/)
-- [GitHub](https://github.com/andresmao85)
 
 Looking forward to collaborating and creating amazing projects together!
