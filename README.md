@@ -4,7 +4,7 @@
 
 I'm Andres Arias, an enthusiastic frontend developer based in Colombia!
 
-## Technical Skills
+## Languages and Tools
 
 ###
 <div align="left">
