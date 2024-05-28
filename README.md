@@ -31,8 +31,9 @@ I'm Andres Arias, an enthusiastic frontend developer based in Colombia, making t
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="40" alt="expressjs logo"  />
+  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" height="40" alt="golang logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="40" alt="expressjs logo"  />
 </div>
 
 ### Version Control
