@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Andres Arias, an enthusiastic frontend developer based in Colombia, making the transition from chemistry to tech! 😀
+I'm Andres Arias, an enthusiastic front end developer based in Colombia, making the transition from chemistry to tech! 😀
 
 
 ## Skills
