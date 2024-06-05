@@ -62,6 +62,6 @@ I am thrilled to join dynamic teams and create impactful software solutions, whi
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/andres-ao/)
-- [Mail](mailto:andres.aor85@gmail.com)
+- [e-mail](mailto:andres.aor85@gmail.com)
 
 Looking forward to collaborating and creating amazing projects together!
