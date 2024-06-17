@@ -63,6 +63,6 @@ I am thrilled to join dynamic teams and create impactful software solutions, whi
 
 - [LinkedIn](https://www.linkedin.com/in/andres-ao/)
 - [e-mail](mailto:andres.aor85@gmail.com)
-- [CourseCareers Profile](https://www.profile.coursecareers.com/andres.arias)
+- [CourseCareers Profile](https://profile.coursecareers.com/software-dev-frontend/andres.arias)
 
 Looking forward to collaborating and creating amazing projects together!
